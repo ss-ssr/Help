@@ -10,7 +10,7 @@
 
 ## 其他other
 
-【1】Shadowsocks下载及SS/SSR账号免费注册体验 https://s-s.live
+【1】Shadowsocks下载及SS/SSR账号免费注册体验 https://ss.s-s.live/
 
 【2】 [android/windows/iphone/ipad/mac-Shadowsocks-Download](https://github.com/ss-ssr/download)
 
