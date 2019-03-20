@@ -16,6 +16,8 @@
 
 ## 第二步，打开程序文件SHADOWSOCKS.EXE，鼠标右键单击配置节点信息
 
+![](https://github.com/ss-ssr/help/blob/master/w1.png)
+
 <div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/w1.png"/></div>
 
 下载后解压文件，打开EXE文件，右键单击左下角的飞机图标进行配置
