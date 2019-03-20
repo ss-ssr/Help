@@ -57,5 +57,4 @@
 
 完成，可打开游览器访问google.com网站进行测试
 
-<div align=center><img width="auto" height="400" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/d1.jpg"/>
-</div>
+![](https://raw.githubusercontent.com/ss-ssr/help/master/%E7%85%A7%E7%89%87/d1.jpg)
