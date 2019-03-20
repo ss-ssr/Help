@@ -1,5 +1,7 @@
 # Windows微软电脑设备SS/ShadowsocksR使用教程
 
+<hr>
+
 前言：需要安装 .NET Framework 4.6.2 和 Microsoft Visual C++ 2015 Redistributable (x86)（一般电脑已经安装，不需要再次安装）。
 
 ## 第一步，下载用于Windows设备的Shadowsocks-Windows软件
