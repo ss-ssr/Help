@@ -36,11 +36,11 @@
 
 首先复制SS地址
 
-![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w10.png)
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w10.jpg)
 
 然后右键单击右下角的软件，点击“服务器”－“从剪切板导入URL”
 
-![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w11.png)
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w11.jpg)
 
 ### 方法二，扫二维码配置
 
@@ -62,7 +62,7 @@
 
 若有一些网站你打不开，这个试试你可以试试全局模式。但也可能需要更新PAC文件，或者你可以编辑本地pac文件。
 
-![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w12.png)
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w12.jpg)
 
 需要更新PAC：依次操作：PAC ->从GFW List更新PAC （等待更新完毕后）->使用本地PAC->启动系统代理
 
