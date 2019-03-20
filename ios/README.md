@@ -26,6 +26,10 @@ Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国�
 
 由于 shadowrocket 不在部分国家如中国等商店上架，因此需要使用美国/香港等appstore账号才可下载
 
-如果你没有账号，点击查看免费APPLE ID账号分享 (https://freeid.xyz/) ，此账号已购买Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks等付费软件
+如果你没有账号，点击查看免费APPLE ID账号分享
+
+https://freeid.xyz/
+
+此账号已购买Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks等付费软件
 
 完成，可打开游览器访问google.com网站进行测试
