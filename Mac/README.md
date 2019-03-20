@@ -1,5 +1,7 @@
 # 苹果OS X设备(MACBOOK)SS/ShadowsocksR使用教程
 
+<hr>
+
 ## 第一步，下载 Shadowsocks MAC软件
 
 点击此处下载软件压缩包，下载后解压安装
