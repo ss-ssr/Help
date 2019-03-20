@@ -1,4 +1,4 @@
-# 苹果APPSTORE ID 账号分享
+# 美区Apple ID苹果APP STORE ID 账号分享
 
 <hr>
 
