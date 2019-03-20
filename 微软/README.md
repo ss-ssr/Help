@@ -16,7 +16,7 @@
 
 ## 第二步，打开程序文件SHADOWSOCKS.EXE，鼠标右键单击配置节点信息
 
-![](https://github.com/ss-ssr/help/blob/master/w1.png)
+![解压](https://github.com/ss-ssr/help/blob/master/w1.png)
 
 <div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/w1.png"/></div>
 
