@@ -27,8 +27,7 @@
 
 有多种配置节点信息的方法，可以根据你的习惯和需要选择
 
-<div align=center><img width="auto" height="400" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/android1.png"/>
-</div>
+![](https://raw.githubusercontent.com/ss-ssr/help/master/%E7%85%A7%E7%89%87/android1.png)
 
 ### 推荐，扫二维码配置
 
@@ -44,15 +43,13 @@
 
 在扫描二维码或者添加节点过程中出现如下提示，请在百度或者谷歌下载安装google play store
 
-<div align=center><img width="auto" height="400" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/android2.png"/>
-</div>
+![](https://raw.githubusercontent.com/ss-ssr/help/master/%E7%85%A7%E7%89%87/android2.png)
 
 ### 若仍不能使用
 
 下载google play store后仍然无法使用，请在手机自带的商城里下载谷歌安装器后可正常使用
 
-<div align=center><img width="auto" height="400" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/android3.png"/>
-</div>
+![](https://raw.githubusercontent.com/ss-ssr/help/master/%E7%85%A7%E7%89%87/android3.png)
 
 ## 最后
 
