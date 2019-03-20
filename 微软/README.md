@@ -1,6 +1,8 @@
+# Windows微软电脑设备SS/ShadowsocksR使用教程
+
 前言：需要安装 .NET Framework 4.6.2 和 Microsoft Visual C++ 2015 Redistributable (x86)（一般电脑已经安装，不需要再次安装）。
 
-## 第一步，下载用于WINDOWS设备的SHADOWSOCKS-WINDOWS软件
+## 第一步，下载用于Windows设备的Shadowsocks-Windows软件
 
 点击此处下载任意一个软件压缩包，下载后解压至任意目录
 
@@ -16,13 +18,11 @@
 
 ## 第二步，打开程序文件SHADOWSOCKS.EXE，鼠标右键单击配置节点信息
 
-![](https://github.com/ss-ssr/Help/blob/master/w1.png)
-
-<div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/w1.png"/></div>
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w1.png)
 
 下载后解压文件，打开EXE文件，右键单击左下角的飞机图标进行配置
 
-<div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/w2.png"/></div>
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w2.png)
 
 目前主要有三种配置节点信息的方法，可以根据你的习惯和需要选择
 
@@ -35,11 +35,12 @@
 ### 方法一，从剪切板导入URL 【推荐】
 
 首先复制SS地址
-<div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/w10.jpg"/></div>
+
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w10.png)
 
 然后右键单击右下角的软件，点击“服务器”－“从剪切板导入URL”
 
-<div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/w11.jpg"/></div>
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w11.png)
 
 ### 方法二，扫二维码配置
 
@@ -51,7 +52,7 @@
 
 最后启用系统代理即可使用
 
-<div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/w3.png"/></div>
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w3.png)
 
 ### 方法三，手动编辑服务器配置
 
@@ -61,7 +62,7 @@
 
 若有一些网站你打不开，这个试试你可以试试全局模式。但也可能需要更新PAC文件，或者你可以编辑本地pac文件。
 
-<div align=center><img width="auto" height="300" src="https://github.com/ss-ssr/help/blob/master/%E7%85%A7%E7%89%87/w12.jpg"/></div>
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w12.png)
 
 需要更新PAC：依次操作：PAC ->从GFW List更新PAC （等待更新完毕后）->使用本地PAC->启动系统代理
 
