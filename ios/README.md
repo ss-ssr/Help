@@ -16,7 +16,7 @@
 
 Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位 Shadowrocket在线安装。
 
-[免费分享美国 日本 香港等苹果APPLE ID 账号](https://github.com/ss-ssr/help/wiki/%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB%E7%BE%8E%E5%9B%BD-%E6%97%A5%E6%9C%AC-%E9%A6%99%E6%B8%AF%E7%AD%89%E8%8B%B9%E6%9E%9CAPPLE-ID-%E8%B4%A6%E5%8F%B7) 也可以直接登录苹果商店，搜索下载：Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks 
+[免费分享美国 日本 香港等苹果APPLE ID 账号](/AppleID/) 也可以直接登录苹果商店，搜索下载：Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks 
 
 ## 第二步，打开程序，进行配置节点信息
 
