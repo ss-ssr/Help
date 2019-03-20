@@ -1,8 +1,8 @@
-# IOS苹果设备(IPHONE/IPAD)SS/SHADOWSOCKSR使用教程
+# IOS苹果设备(Iphone/Ipad)SS/ShadowsocksR使用教程
  
 前言：需要非大陆区苹果账号才可以下载shadowrocket或者其他如Potatso Lite代理工具
 
-## 第一步，下载SHADOWROCKET或者其他如POTATSO LITE代理工具软件
+## 第一步，下载Shadowrocket或者其他如Potatso Lite代理工具软件
 
 你可以登陆非大陆区账号单独购买下载，以下是苹果商店链接（需非大陆苹果账号，选择任意一个下载即可）
 
