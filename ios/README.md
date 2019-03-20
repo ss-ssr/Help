@@ -20,7 +20,7 @@ Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国�
 
 打开 shadowrocket 软件，点击左上角的扫码，扫描中服务器节点的二维码
 
-![](https://raw.githubusercontent.com/ss-ssr/help/master/i1.png)
+![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/i1.png)
 
 ## 需要再次说明的是
 
