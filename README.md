@@ -12,10 +12,10 @@
 
 ## Shadowsocks软件下载
 
-【1】 [Shadowsocks-android安卓点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-android.apk)
+【1】 [Shadowsocks-Android安卓点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-android.apk)
 
-【2】 [Shadowsocks-windows微软点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-windows.zip)
+【2】 [Shadowsocks-Windows微软点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-windows.zip)
 
-【3】  [Shadowsocks-iphone/ipad苹果在线安装](https://ios.shadowrocket.org/)
+【3】  [Shadowsocks-Iphone/ipad苹果在线安装](https://ios.shadowrocket.org/)
 
 【4】  [Shadowsocks-Mac苹果点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-mac.zip)
