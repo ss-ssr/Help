@@ -14,8 +14,8 @@
 
 【1】 [Shadowsocks-android安卓点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-android.apk)
 
-【2】 [shadowsocks-windows微软点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-windows.zip)
+【2】 [Shadowsocks-windows微软点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-windows.zip)
 
-【3】  [shadowsocks-iphone/ipad苹果在线安装](https://ios.shadowrocket.org/)
+【3】  [Shadowsocks-iphone/ipad苹果在线安装](https://ios.shadowrocket.org/)
 
-【4】  [shadowsocks-Mac苹果点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-mac.zip)
+【4】  [Shadowsocks-Mac苹果点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-mac.zip)
