@@ -2,7 +2,7 @@
 
 <hr>
 
-再次提醒大家：很多小白iCloud和App Store傻傻分不清楚，它们是可以分别登陆的，一定不要登陆iCloud!
+再次提醒大家：很多小白iCloud和App Store傻傻分不清楚，它们是可以分别登陆的，一定不要登陆iCloud!不要登陆iCloud!
 
 <hr>
 
