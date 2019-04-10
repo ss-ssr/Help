@@ -32,7 +32,7 @@ Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国�
 
 2、更换4G网络进行尝试。
 
-3、下载其他代理软件尝试， 推荐 如 Potatso Lite （请使用美区账号登陆App Store 搜索下载安装）。
+3、下载其他代理软件尝试， 推荐 如 Potatso Lite （请使用 [美区账号FreeID.xyz](https://freeid.xyz/) 登陆App Store 搜索下载安装）。
 
 ### 补充：小火箭订阅功能如何使用
 
