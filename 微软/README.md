@@ -62,6 +62,8 @@
 
 ## 最后
 
+若游览器无法打开google.com等网页，可能是你的游览器有插件或者设置了代理，可以尝试更换游览器测试一下。
+
 若有一些网站你打不开，这个试试你可以试试全局模式。但也可能需要更新PAC文件，或者你可以编辑本地pac文件。
 
 ![](https://raw.githubusercontent.com/ss-ssr/Help/master/%E7%85%A7%E7%89%87/w12.jpg)
