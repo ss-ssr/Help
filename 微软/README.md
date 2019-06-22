@@ -1,4 +1,4 @@
-# Windows微软电脑设备SS/ShadowsocksR使用教程
+# 微软Windows电脑设备SS/ShadowsocksR使用教程
 
 <hr>
 
