@@ -1,3 +1,8 @@
+
+# SS/ShadowsocksR教程
+
+<hr>
+
 ## Shadowsocks使用教程-最全的SS/ShadowsocksR安装使用教程
 
 【1】 [Windows微软电脑设备SS/SSR使用教程](/微软/)
