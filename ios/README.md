@@ -14,7 +14,9 @@
 
 3、在线安装下载【shadowsocks-iphone/ipad】软件 [游览器下载安装](https://ios.freeid.xyz/) 手机苹果游览器打开： [ios.freeid.xyz](https://ios.freeid.xyz/)
 
-Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位 Shadowrocket在线安装。Shadowrocket使用教程可参考：[https://shadowrocket.gitbook.io](https://shadowrocket.gitbook.io)
+Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位 Shadowrocket在线安装。
+
+Shadowrocket使用教程可参考：[https://shadowrocket.gitbook.io](https://shadowrocket.gitbook.io)
 
 4、[免费分享美国 日本 香港等苹果APPLE ID 账号](/AppleID/) 也可以直接登录苹果商店，搜索下载：Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks 
 
