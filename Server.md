@@ -1,4 +1,4 @@
-# 付費穩定SS/SSR服務器推荐
+# 付費穩定SS/SSR服務器
 
 SS/ShadowsocksR付費穩定服務器！https://s-s-r.github.io
 
