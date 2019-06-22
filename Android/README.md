@@ -1,8 +1,8 @@
-# Android设备SS/ShadowsocksR使用教程
+# 安卓Android设备SS/ShadowsocksR使用教程
 
 <hr>
 
-注意：此软件可能带广告，下载后删去即可
+注意：此软件可能带广告，下载后左滑删去即可
 
 ## 第一步，下载用于Android设备的Shadowsocks-ANDROID软件
 
