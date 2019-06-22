@@ -1,4 +1,4 @@
-# IOS苹果设备(Iphone/Ipad)SS/ShadowsocksR使用教程
+# 苹果IOS设备(iPhone/iPad)SS/ShadowsocksR使用教程
  
  <hr>
  
