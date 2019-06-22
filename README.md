@@ -3,7 +3,7 @@
 
 <hr>
 
-## 最全的SS/ShadowsocksR安装使用教程
+## 全网最全的SS/ShadowsocksR安装使用教程
 
 【1】 [Windows微软电脑设备SS/SSR使用教程](/微软/)
 
