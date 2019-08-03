@@ -10,7 +10,7 @@
 
 已购买小火箭等付费软件，App Store 搜索shadowrocket即可下载
 
-共享账户，获取地址：[https://freeid.xyz/](https://freeid.xyz/)
+共享账户，获取地址：[美区Apple ID苹果APP STORE ID 账号分享](https://shadowsocks-help.github.io/Shadowsocks/)
 
 ## 打开苹果App Store 退出原账号，登录共享账户
 
@@ -22,4 +22,4 @@
 
 ### 请勿登录iCloud ！ 请勿登录iCloud ！请勿登录iCloud ！
 
-### 若此APPSTORE ID账号被锁，都会及时的解锁，急需解锁请联系我们 [https://freeid.xyz/](https://freeid.xyz/) ，也可以直接申请发邮件解锁
+### 若此APPSTORE ID账号被锁，都会及时的解锁，急需解锁请联系我们 [美区Apple ID苹果APP STORE ID 账号分享](https://shadowsocks-help.github.io/Shadowsocks/) ，也可以直接申请发邮件解锁
