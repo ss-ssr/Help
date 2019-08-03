@@ -12,11 +12,11 @@
 
 2、Potatso Lite(免费)，[苹果美区账户登录商店下载安装](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
 
-3、在线安装下载【shadowsocks-iphone/ipad】软件 [游览器下载安装](https://ios.freeid.xyz/) 手机苹果游览器打开： [ios.freeid.xyz](https://ios.freeid.xyz/)
+3、在线安装下载【shadowsocks-iphone/ipad】软件 [游览器下载安装](https://shadowsocks-help.github.io/ios/) 手机苹果游览器打开： [https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
 Shadowrocket（小火箭）在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦而且有些小白也会登录iCloud的，挺危险的，所以推荐在线安装一步到位 Shadowrocket在线安装。
 
-Shadowrocket使用教程可参考：[https://shadowrocket.gitbook.io](https://shadowrocket.gitbook.io)
+Shadowrocket使用教程可参考：[shadowsocks-help](https://shadowsocks-help.github.io/Shadowsocks/)
 
 4、[免费分享美国 日本 香港等苹果APPLE ID 账号](/AppleID/) 也可以直接登录苹果商店，搜索下载：Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks 
 
@@ -34,7 +34,7 @@ Shadowrocket使用教程可参考：[https://shadowrocket.gitbook.io](https://sh
 
 2、更换4G网络进行尝试。
 
-3、下载其他代理软件尝试， 推荐 如 Potatso Lite （请使用 [美区账号FreeID.xyz](https://freeid.xyz/) 登陆App Store 搜索下载安装）。
+3、下载其他代理软件尝试， 推荐 如 Potatso Lite （请使用[美区Apple ID苹果APP STORE ID 账号分享](https://shadowsocks-help.github.io/Shadowsocks/) 登陆App Store 搜索下载安装）。
 
 ### 补充：小火箭订阅功能如何使用
 
@@ -44,12 +44,12 @@ Shadowrocket使用教程可参考：[https://shadowrocket.gitbook.io](https://sh
 
 由于 shadowrocket 不在部分国家如中国等商店上架，因此需要使用美国/香港等appstore账号才可下载
 
-如果你没有账号，点击查看 [免费APPLE ID账号分享FreeID.xyz](https://freeid.xyz/)
+如果你没有账号，点击查看 [美区Apple ID苹果APP STORE ID 账号分享](https://shadowsocks-help.github.io/Shadowsocks/)
 
-[FreeID.xyz](https://freeid.xyz/)
+[美区Apple ID苹果APP STORE ID 账号分享](https://shadowsocks-help.github.io/Shadowsocks/)
 
 此账号已购买Shadowrocket 、 Quantumult 、 Potatso Lite 、 Outline 、 Surge 3 、 FastSocks等付费软件。
 
-建议收藏网址 [FreeID.xyz](https://freeid.xyz/) 获取账号及密码更新。
+建议收藏网址[美区Apple ID苹果APP STORE ID 账号分享](https://shadowsocks-help.github.io/Shadowsocks/) 获取账号及密码更新。
 
 
