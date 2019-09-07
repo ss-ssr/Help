@@ -15,7 +15,7 @@
 
 【5】 [免费分享美国 日本 香港等苹果APPLE ID 账号](/AppleID/)
 
-【6】 [Shadowsocks 帮助导航Shadowsocks-Help](https://shadowsocks-help.github.io/）
+【6】 [Shadowsocks 帮助导航 Shadowsocks-Help ](https://shadowsocks-help.github.io/)
 
 ## Shadowsocks软件下载
 
@@ -29,4 +29,4 @@
 
 ## Shadowsocks 帮助导航
 
-【1】 [Shadowsocks-Help](https://shadowsocks-help.github.io/）
+【1】 [帮助导航 Shadowsocks-Help ](https://shadowsocks-help.github.io/)
