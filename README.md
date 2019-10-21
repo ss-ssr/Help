@@ -29,4 +29,8 @@
 
 ## Shadowsocks 帮助导航
 
-【1】 [帮助导航 Shadowsocks-Help ](https://shadowsocks-help.github.io/)
+【1】 [帮助导航 Shadowsocks-Help ](https://shadowsockshelp.github.io/)
+
+## 其他-V2ray
+
+【1】 [V2ray注册体验 ](https://v2server.github.io/)
